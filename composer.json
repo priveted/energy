@@ -1,0 +1,18 @@
+{
+    "name": "priveted/energy",
+    "description": "Web Lib",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Priveted\\Energy\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "priveted",
+            "email": "priveted@yandex.ru"
+        }
+    ],
+    "require": {}
+}
